@@ -4,7 +4,6 @@ Welcome to my Python Challenges repository! This is where I practice and documen
 
 ## What’s inside:
 - ✅ Clean function-based solutions
-- 💬 Comments to explain logic (sometimes...)
 - 🎯 Topics like loops, strings, lists, logic, and more
 
 Feel free to explore or fork for your own practice!
